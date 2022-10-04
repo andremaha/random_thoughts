@@ -2,7 +2,6 @@
 
 [DEMO](https://fast-mountain-85408.herokuapp.com)
 
-
 Twitter-like application based on [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](https://www.michaelhartl.com/).
