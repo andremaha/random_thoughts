@@ -1,7 +1,9 @@
+<% provide(:title, "Home") %>
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Home | Random Thoughts</title>
+    <title><%= yield(:title) %> | Random Thoughts</title>
   </head>
   <body>
     <h1>Random Thoughts</h1>
