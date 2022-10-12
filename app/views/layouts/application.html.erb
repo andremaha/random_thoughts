@@ -16,6 +16,7 @@
     <div class="container">
       <%= yield %>
       <%= render 'layouts/footer' %>
+      <%= debug(params.to_yaml) if Rails.env.development? %>
     </div>
   </body>
 </html>
